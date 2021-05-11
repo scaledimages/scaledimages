@@ -21,6 +21,7 @@ Leon Hauck, has been in the IT business for over 30 years.
 ### Contact
 
  - [Website/Blog](https://scaledimages.com)
+ - [Upwork](https://www.upwork.com/freelancers/~01f069fbaa8ddaa3dc)
  - Phone: [+1-623-321-2883](tel:+16233212883)
  - SMS: [+1-623-321-2883](sms:+16233212883)
  - Slack: leon@scaledimages.com
