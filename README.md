@@ -15,7 +15,7 @@ Leon Hauck, has been in the IT business for over 30 years.
 ### Other Areas of Interest
 
  - CMS development with [Bolt](https://boltcms.io/).  We've set up a few sites with this and are still investigating writing plugins and addons for it.
- - Development of a lightweight and high performance web framwork using [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)
+ - Development of a lightweight and high performance web framwork using [Lua](https://en.wikipedia.org/wiki/Lua_\(programming_language\))
  - Web Development using [Hugo](https://gohugo.io/)
  
 ### Contact
